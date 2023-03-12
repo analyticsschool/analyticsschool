@@ -43,12 +43,12 @@ On a Mission to help people with proper resources, guidance and sharing opportun
 - Guesstimates
 - Business Metrics & KPIs
   
-#### 🤝 Connect with us:
+### 🤝 Connect with us:
 
 <a href="https://www.linkedin.com/company/analytics-school"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abalytics school | LinkedIn" width="21px"/></a>
 <a href="[https://instagram.com/yushi.95](https://www.instagram.com/analytics_school/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Abalytics school | Instagram" width="21px"/></a>
 <a href="https://www.facebook.com/Analyticschool"><img align="left" src="https://user-images.githubusercontent.com/127306551/224540351-3b052edc-6ccc-4343-be90-75c4d38e0e1c.png" alt="Abalytics school | Facebook" width="21px"/></a>
 </br>  
-#### 🤝 Join our Community:
+### 🤝 Join our Community:
 <a href="https://analytics-school.slack.com/"><img align="left" src="https://user-images.githubusercontent.com/127306551/224540407-8692c77f-78b4-4479-8d4d-6d066ffe0777.png" alt="Abalytics school | Slack" width="21px"/></a>
 </br>
