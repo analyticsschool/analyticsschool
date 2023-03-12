@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/company/analytics-school" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127306551/224539186-ebc50b73-9993-457d-9da9-2fc86e196c5d.jpeg" alt="my banner"></a>
+</p>
+
+<h3 align="center">
+
 ### About
 
 <!--
