@@ -23,7 +23,26 @@ Here are some ideas to get you started:
 
 
 On a Mission to help people with proper resources, guidance and sharing opportunities in order to help them grow by building supportive community which will connect people across the world.
+  
+### 💼 We talk about:
+- How ace analytics interviews
+- Resume building
+- Technical skills
+- Business skills
 
+
+##### Technical skills
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+##### Business Skills:
+- Casestudies
+- Guesstimates
+- Business Metrics & KPIs
+  
 #### 🤝 Connect with us:
 
 <a href="https://www.linkedin.com/company/analytics-school"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abalytics school | LinkedIn" width="21px"/></a>
@@ -33,11 +52,3 @@ On a Mission to help people with proper resources, guidance and sharing opportun
 #### 🤝 Join our Community:
 <a href="https://analytics-school.slack.com/"><img align="left" src="https://user-images.githubusercontent.com/127306551/224540407-8692c77f-78b4-4479-8d4d-6d066ffe0777.png" alt="Abalytics school | Slack" width="21px"/></a>
 </br>
-
-
-#### 💼 We talk about
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
